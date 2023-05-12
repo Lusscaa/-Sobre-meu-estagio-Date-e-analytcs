@@ -1,2 +1,0 @@
-Ator/Atriz com maior número de filmes: Robert DeNiro
-Número de filmes: 79

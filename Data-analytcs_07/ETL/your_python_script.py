@@ -31,8 +31,8 @@ def upload_file(file_name, bucket, folder_name=None):
         logging.error(e)
         return False
     return True
-upload_file('movies.csv', 'lucasricardo', 'Raw/Local/CSV/Movies/2023/05/26/')
-upload_file('series.csv', 'lucasricardo', 'Raw/Local/CSV/Series/2023/05/26/')
+upload_file('movies.csv', 'lucasricardo2', 'Raw/Local/CSV/Movies/2023/05/26/')
+upload_file('series.csv', 'lucasricardo2', 'Raw/Local/CSV/Series/2023/05/26/')
 
 
 
